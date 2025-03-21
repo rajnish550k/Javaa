@@ -37,7 +37,7 @@ public class Modifiers { //public,private,protected,default,
 		
 		System.out.println("Protected"); //userdefined object
         Mod m=new Mod();
-        m.setName("Nokesh");
+        m.setName("Rajnish kumar");
         System.out.println("a value is:"+m.a);
         System.out.println("b value is:"+obj.b);
         System.out.println("c value is:"+obj.c);
