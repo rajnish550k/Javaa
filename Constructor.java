@@ -17,7 +17,7 @@ class Constructor {
 
     public static void main(String[] args) {
         // Creating an object of Person using the constructor
-    	Constructor p1 = new Constructor("Alice", 22);
+    	Constructor p1 = new Constructor("Kundan", 22);
         p1.display();
     }
 }
