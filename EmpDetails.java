@@ -2,8 +2,8 @@ package Java.work;  // Ensure the package matches your folder structure
 
 class Emp {
     private int empId = 101;
-    private String empName = "Nokesh";
-    private int salary = 20000;
+    private String empName = "Rajnish";
+    private int salary = 25000;
     private String address = "xyz street";
     private String phone;
 
@@ -51,7 +51,7 @@ class Emp {
 public class EmpDetails {
     public static void main(String[] args) {
         Emp ex = new Emp();
-        ex.setPhone("8688238202"); // Setting phone number
+        ex.setPhone("7369812702"); // Setting phone number
 
         // Display all details
         ex.displayDetails();
