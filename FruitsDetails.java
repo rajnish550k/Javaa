@@ -10,11 +10,11 @@ public class FruitsDetails {
 
     public static void main(String[] args) {
         FruitsDetails shop = new FruitsDetails();
-        shop.fruit("Mango", "Orange", 1.99);
+        shop.fruit("Orange", "Orange", 1.99);
         shop.fruit("Grapes", "Purple", 2.49);
         shop.fruit("Watermelon", "Green", 4.99);
         shop.fruit("Strawberry", "Red", 3.25);
-        shop.fruit("Blueberry", "Blue", 5.99);
+        shop.fruit("Papaya", "Blue", 5.99);
         shop.fruit("Pineapple", "Brown-Yellow", 3.75);
     }
 }
