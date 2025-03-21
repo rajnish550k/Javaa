@@ -6,7 +6,7 @@ class Car{
 }
 class Car1 extends Car{
 	public void car2() {
-		System.out.println("Car price:2000000");
+		System.out.println("Car price:25000000");
 	}
 }
 
